@@ -11,4 +11,4 @@ By using pandas-profiling package you will save a lot of time and effort . no ne
 All these analysis tools will be done for you by pandas-profiling . 
 Try it your self with your data .
 
-[see the result report] (https://adelaltuwaijri.github.io/panda-profiling/report/report.html)
+[see the result report](https://adelaltuwaijri.github.io/panda-profiling/report/report.html)
